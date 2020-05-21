@@ -1,0 +1,2 @@
+# dietpi
+For dietpi setting
